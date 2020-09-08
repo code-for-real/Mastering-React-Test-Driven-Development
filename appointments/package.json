@@ -3,17 +3,6 @@
   "version": "1.0.0",
   "description": "Appointments system",
   "main": "index.js",
-<<<<<<< HEAD
-  "dependencies": {
-    "jest": "^26.4.2"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "",
-  "license": "ISC"
-=======
   "scripts": {
     "test": "jest"
   },
@@ -34,5 +23,4 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
->>>>>>> dde88114fe61626b7d7c562a25f30046bf9c7c6a
 }
